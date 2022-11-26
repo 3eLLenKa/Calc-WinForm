@@ -21,7 +21,7 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.Text = "1000-7";
+            this.Text = "Калькулятор";
             textBox1.ReadOnly = true;
         }
 
